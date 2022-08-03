@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anne Spencer Ross"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
 I am an Assistant Professor of Computer Science at Bucknell University. My broad interest is in Human Computer Interaction. I am passionate about enabling diverse groups of people to access, interact with, and communicate information through technology. Currently, I research how to support designers, developers, testers, and accessibility specialists work collaboratively to improve software accessibility. I'm also working to integrate accessibility into undergraduate CS courses and prepare students to be accessibility champions.
             
 I got my PhD from the Paul G. Allen School of Computer Science and Engineering at The University of Washington, advised by James Fogarty and Jacob O. Wobbrock. I received my B.S. in computer science from Colorado State University. [demo.com](demo.com)
