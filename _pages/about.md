@@ -12,6 +12,9 @@ I am an Assistant Professor of Computer Science at Bucknell University. My broad
             
 I got my PhD from the Paul G. Allen School of Computer Science and Engineering at The University of Washington, advised by James Fogarty and Jacob O. Wobbrock. I received my B.S. in computer science from Colorado State University. [demo.com](demo.com)
 
+# Website Status
+Aug 2022: This cite is significantly under construction. Feel free to email me if you want to connect further.
+
 # Projects
 
 ## Improving Software Accessibility
