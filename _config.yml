@@ -83,11 +83,11 @@ author:
   name             : "Anne Spencer Ross"
   avatar           : "profile.png"
   bio              : "Asst. Prof at Bucknell University. Human-Computer Interaction, Accessibility."
-  location         : "Lewisbut PA, USA"
+  location         : 
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=E_qiYZgAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "a.ross@bucknell.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
